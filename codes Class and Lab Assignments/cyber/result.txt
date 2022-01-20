@@ -1,0 +1,2 @@
+The sum of Numbers is 55
+The average of numbers is 5.000000

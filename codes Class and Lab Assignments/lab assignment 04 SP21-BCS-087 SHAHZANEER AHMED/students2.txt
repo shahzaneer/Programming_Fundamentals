@@ -1,0 +1,4 @@
+ahmad:43
+noor:34
+ali:26
+SHAH:23
