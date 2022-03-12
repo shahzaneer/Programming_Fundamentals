@@ -4,7 +4,7 @@ This includes all the practice Questions and Assignment Questions of my Second s
 ``` java
 public class abc{
 public static void main(String [] args){
-System.out.println("Shahzaneer Ahmed taking on Java!");
+System.out.println("Shahzaneer Ahmed taking on Programming Fundamentals!");
 }
 }
 ```
