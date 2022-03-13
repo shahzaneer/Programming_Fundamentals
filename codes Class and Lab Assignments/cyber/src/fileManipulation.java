@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class fileManipulation {
     public static void main(String[] args) {
-     File myFile = new File("abc.txt");
+    File myFile = new File("abc.txt");
         try {
             Scanner scan = new Scanner(myFile);
             int count = 0;
